@@ -1,0 +1,5 @@
+server:
+  port: 8080
+services:
+  payment-url: http://localhost:8081
+  table-url: http://localhost:8082

@@ -1,0 +1,2 @@
+rootProject.name = 'ss15-hw05-semantic-lock-compensation'
+include 'orchestrator-service', 'payment-service', 'table-service'

@@ -1,0 +1,6 @@
+package com.storex.orchestrator.model;
+
+public enum BookingState {
+    INITIATED, TABLE_RESERVING, TABLE_RESERVED, PAYMENT_PENDING,
+    PAYMENT_COMPLETED, BOOKING_CONFIRMING, BOOKING_CONFIRMED, CANCELLED
+}
