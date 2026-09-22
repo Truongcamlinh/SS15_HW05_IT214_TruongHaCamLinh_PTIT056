@@ -1,6 +1,5 @@
 # SS15_HW05 - Giao dịch bù và Semantic Lock
 
-**Sinh viên:** Trương Hà Cẩm Linh - **Mã sinh viên:** PTIT056
 
 ## 1. Mở rộng từ bài State Machine
 
